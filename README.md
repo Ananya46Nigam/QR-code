@@ -1,6 +1,6 @@
 # QR-code
 
-Basic method Generate QR code for any string
+Basic method to Generate QR code for any string
 
 This requires two python libraries: pyqrcode and pypng
 
